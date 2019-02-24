@@ -16,5 +16,13 @@
   "devDependencies": {},
   "keywords": [
     "jask"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinjohn0306/jask.git"
+  },
+  "bugs": {
+    "url": "https://github.com/justinjohn0306/jask/issues"
+  },
+  "homepage": "https://github.com/justinjohn0306/jask#readme"
 }
